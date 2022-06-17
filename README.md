@@ -21,3 +21,7 @@ Feature	Description:
 #### 3. Quick Start Chart Studio:
 
 ![code](https://user-images.githubusercontent.com/75013699/174353299-d290f8a5-4674-4a78-81cf-c41d1cc016b5.png)
+
+![code1](https://user-images.githubusercontent.com/75013699/174353719-2edc25e8-3c93-4f59-a308-66faec0f2e60.png)
+
+![newplot](https://user-images.githubusercontent.com/75013699/174353726-58fd7228-4b83-4bb6-8eb1-6665dcf7b908.png)
